@@ -1,4 +1,5 @@
 🎡 Coachella AI Assistant
+
 📌 Overview
 
 The Coachella AI Assistant is an interactive chatbot designed to help users plan their festival experience. It uses an AI agent built with LangChain and a web interface powered by Streamlit to provide personalized recommendations, schedule information, and budget estimates. This tool is intended for festival attendees who want a smarter, faster way to organize their trip.-bot
